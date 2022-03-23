@@ -1,15 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
-import navbar from './components/navbar/navbar'
-
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import NavBar from './components/NavBarComp'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
+        <NavBar/>
 
 
         <p> Teste </p>  
