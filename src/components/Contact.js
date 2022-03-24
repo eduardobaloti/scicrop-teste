@@ -12,9 +12,9 @@ export default class Contact extends Component {
                 </p>
 
                 <img
-                    className="rounded mx-auto d-block"
+                    className="rounded"
                     src={Map}
-                    style={{paddingBottom:'30px', paddingTop:'30px'}}
+                    style={{paddingBottom:'30px', paddingTop:'30px', width:'20em', textAlign:'center'}}
                 />
             </div>
         );
