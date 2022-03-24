@@ -1,8 +1,8 @@
-# ZooPets
+# ZooPet
 
-Zoopets é um site simples criado com React para o teste de estagiario da Scicrop
+Zoopet é um site simples criado com React para o teste de estagiario da Scicrop
 
-### Acesse ZooPets
+### Acesse ZooPet
 
 https://eduardobaloti.github.io/scicrop-teste/
 
