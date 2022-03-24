@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/scicrop-teste/static/css/main.e4eb3302.css",
-    "main.js": "/scicrop-teste/static/js/main.234f662f.js",
+    "main.css": "/scicrop-teste/static/css/main.4753c30a.css",
+    "main.js": "/scicrop-teste/static/js/main.09064f77.js",
     "static/media/pet5.png": "/scicrop-teste/static/media/pet5.9fe46b12cfcb11edcf0d.png",
     "static/media/pet6.png": "/scicrop-teste/static/media/pet6.5ccbfde87a3ce409bb71.png",
     "static/media/pet4.png": "/scicrop-teste/static/media/pet4.8ca79f883ce931b22a17.png",
@@ -11,11 +11,11 @@
     "static/media/pet3.png": "/scicrop-teste/static/media/pet3.149778bdce5d7725da96.png",
     "static/media/pet2.png": "/scicrop-teste/static/media/pet2.c2dfac7da6f78f9e5c34.png",
     "index.html": "/scicrop-teste/index.html",
-    "main.e4eb3302.css.map": "/scicrop-teste/static/css/main.e4eb3302.css.map",
-    "main.234f662f.js.map": "/scicrop-teste/static/js/main.234f662f.js.map"
+    "main.4753c30a.css.map": "/scicrop-teste/static/css/main.4753c30a.css.map",
+    "main.09064f77.js.map": "/scicrop-teste/static/js/main.09064f77.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4eb3302.css",
-    "static/js/main.234f662f.js"
+    "static/css/main.4753c30a.css",
+    "static/js/main.09064f77.js"
   ]
 }
