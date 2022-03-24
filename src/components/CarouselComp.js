@@ -11,7 +11,7 @@ export default class CarouselComp extends Component {
                 <Carousel>
                     <Carousel.Item>
                         <img
-                            style={{ padding: "25px" }}
+                            style={{ paddingLeft:'15px', paddingRight:'15px', paddingBottom:'30px'}}
                             className="d-block w-100"
                             src={Pet1}
                             alt="First slide"
@@ -20,7 +20,7 @@ export default class CarouselComp extends Component {
 
                     <Carousel.Item>
                         <img
-                            style={{ padding: "25px" }}
+                            style={{ paddingLeft:'15px', paddingRight:'15px', paddingBottom:'30px'}}
                             className="d-block w-100"
                             src={Pet2}
                             alt="First slide"
@@ -28,7 +28,7 @@ export default class CarouselComp extends Component {
                     </Carousel.Item>
                     <Carousel.Item>
                         <img
-                            style={{ padding: "25px" }}
+                            style={{ paddingLeft:'15px', paddingRight:'15px', paddingBottom:'30px'}}
                             className="d-block w-100"
                             src={Pet3}
                             alt="First slide"
